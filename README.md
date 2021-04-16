@@ -5,7 +5,7 @@ Navy Digital Services exists to forge a brand new digital, data and artificial i
 
 The following clip provides an overview of the reason Navy Digital Services exists:
 
-[![Programme Nelson](youtube_clip.png)](https://youtu.be/Ae68GhhNsjE)
+[![](Youtube.PNG)](https://youtu.be/Ae68GhhNsjE)
 
 
 Digital and Data Transformation with Navy Digital Services. (Video link)
