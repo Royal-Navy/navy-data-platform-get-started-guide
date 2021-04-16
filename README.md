@@ -7,7 +7,6 @@ The following clip provides an overview of the reason Navy Digital Services exis
 
 [![](Youtube.PNG)](https://youtu.be/Ae68GhhNsjE)
 
-
 Digital and Data Transformation with Navy Digital Services. (Video link)
 
 
@@ -22,9 +21,7 @@ Navy Digital Services has three objectives, which are:
 
 In order to meet these objectives and make the Royal Navy's data accessible and coherent we provide a common technology service, tools & standards for digital services. We do this through the Navy Data Platform and the Navy Application Platform which you can read more about later in this guide. This common technology service makes it possible for intelligent applications to be developed and deployed rapidly. On deployment applications are quickly able to exploit the data in the Navy Data Platform, in turn allowing the Royal Navy to draw valuable insight from the data. The images below provide an illustration of how this common technology service and data exploitation can be used across a Royal Navy ship and fleet.
 
-
-![NavyData](NavyData.png) ![NavyData2](NavyData2.png)
-
+<img src="NavyData.png" width="60%" ><img src="NavyData2.png" width="60%" >
 
 To meet the third objective Navy Digital Services guides digital transformations through First Looks & Discoveries to ensure the Royal Navy service users are in the forefront of the transformation.  Further to this we also provide strategy and delivery support teams to provide the support and governance required.
 
