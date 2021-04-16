@@ -5,7 +5,7 @@ Navy Digital Services exists to forge a brand new digital, data and artificial i
 
 The following clip provides an overview of the reason Navy Digital Services exists:
 
-[![](Youtube.PNG)](https://youtu.be/Ae68GhhNsjE)
+[![](images/Youtube.PNG)](https://youtu.be/Ae68GhhNsjE)
 
 Navy Digital Services has three objectives, which are:
 
@@ -19,7 +19,7 @@ Navy Digital Services has three objectives, which are:
 In order to meet these objectives and make the Royal Navy's data accessible and coherent we provide a common technology service, tools & standards for digital services. We do this through the Navy Data Platform and the Navy Application Platform which you can read more about later in this guide. This common technology service makes it possible for intelligent applications to be developed and deployed rapidly. On deployment applications are quickly able to exploit the data in the Navy Data Platform, in turn allowing the Royal Navy to draw valuable insight from the data. The images below provide an illustration of how this common technology service and data exploitation can be used across a Royal Navy ship and fleet.
 
 
-<img align="centre" src="NavyData.png" width="50%" ><img src="NavyData2.png" width="50%" >
+<img align="centre" src="images/NavyData.png" width="50%" ><img src="images/NavyData2.png" width="50%" >
 
 
 To meet the third objective Navy Digital Services guides digital transformations through First Looks & Discoveries to ensure the Royal Navy service users are in the forefront of the transformation.  Further to this we also provide strategy and delivery support teams to provide the support and governance required.
@@ -39,7 +39,7 @@ The Apps hosted on the NAP are then populated and supported by NDP, with whom it
 
 Below, you will find a very high level architecture generally outlining the NDP and NAP and how they interact with one another. Greater detail around the Approved API communications can be provided as necessary through the NDP SDK documentation.
 
-<img src="NAP_NDP_SimpleArch01.png" width="50%" >
+<img src="images/NAP_NDP_SimpleArch01.png" width="50%" >
 
 ### Benefits and Advantages
 
